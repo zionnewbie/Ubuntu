@@ -1,5 +1,9 @@
 # i3 Ubuntu Configuration
 Some Minor i3 customization with polybar !
+
+# ![Polybar-2 Demo image](https://github.com/zionnewbie/Ubuntu/main/poly2.png?raw=true)
+
+
 > **Note:**
 > This is a personal setup. Use at your own risk — issues may require manual troubleshooting.
 
