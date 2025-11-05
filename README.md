@@ -1,6 +1,8 @@
 # i3 Ubuntu Configuration
 Some Minor i3 customization with polybar !
 
+
+Polybar-2:
 # ![Polybar-2 Demo image](Demo/poly2.png)
 
 
